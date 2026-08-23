@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/vaibhavpukale/Desktop/Crits/DieCastCars/backend/application-service/uploads/log/.9c6e09d9edc1672d6596907e2f00d8a4aa81a0c7-audit.json",
+    "files": [
+        {
+            "date": 1787509635815,
+            "name": "/Users/vaibhavpukale/Desktop/Crits/DieCastCars/backend/application-service/uploads/log/application-service_combined-2026-08-23.log",
+            "hash": "d71175d1b8846c3bd138edc04d6fc254beed83c9a228fc764c1fa92d0473b898"
+        },
+        {
+            "date": 1787509859540,
+            "name": "/Users/vaibhavpukale/Desktop/Crits/DieCastCars/backend/application-service/uploads/log/application-service_combined-2026-08-24.log",
+            "hash": "1c407142548b3ef5f6b8f748abbd1da8dc5ccb4a2accb14f877b25271d31e87d"
+        }
+    ],
+    "hashType": "sha256"
+}
